@@ -1,3 +1,7 @@
+This is my first Front-End work. I have used ReatJS, JavaScript, HTML5 and CSS3. Through this work, I want to give update of current most popular WebSeries or Movies screening on oline platform like Netflix, Prime etc.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
